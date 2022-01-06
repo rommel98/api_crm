@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Tacos Actualizado",
+      "empresa": "Pizaaa",
+      "email": "habboerwin98@gmail.com",
+      "telefono": "123456789",
+      "notas": "hola como estas",
+      "id": 1
+    },
+    {
+      "nombre": "Tacos Actualizado",
+      "empresa": "Taqueria Saro",
+      "email": "errogove@tabano.com",
+      "telefono": "1234567890",
+      "notas": "Vendemos tacos",
+      "id": 2
+    },
+    {
+      "nombre": "Pizza",
+      "empresa": "Pizza de don cangrejo",
+      "email": "prueba@mail.com",
+      "telefono": "1234567890",
+      "notas": "Vendemos pizza",
+      "id": 3
+    },
+    {
+      "nombre": "Erwin",
+      "empresa": "Rommel Inc.",
+      "email": "rommel@correo.com",
+      "telefono": "9981302119",
+      "notas": "Rommel quiere comprar una nueva laptop",
+      "id": 4
+    }
+  ]
+}
